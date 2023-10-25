@@ -678,6 +678,22 @@ def drawA():
   forward(50)
 
 
+w = Screen()
+w.bgcolor("red")
+pendown()
+right(90)
+forward(100)
+right(180)
+forward(150)
+right(45)
+forward(100)
+right(180)
+forward(100)
+right(90)
+forward(100)
+penup()
+
+
 
 
 
