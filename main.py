@@ -1,5 +1,16 @@
 from turtle import *
-
+def drawM():
+   pendown()
+   right(270)
+   forward(100)
+   right(115)
+   forward(100)
+   right(300)
+   forward(100)
+   right(125)
+   forward(100)
+   penup()
+drawM()
 
 
 def drawE():
